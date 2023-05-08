@@ -1,7 +1,0 @@
-import * as All from "./types.js";
-
-function main(): All. {
-  console.log("Done");
-}
-
-main();
