@@ -1,0 +1,9 @@
+{
+  "name": "tstest",
+  "type": "module",
+  "packageManager": "yarn@3.5.1",
+  "devDependencies": {
+    "tsx": "^3.12.7",
+    "typescript": "^5.0.4"
+  }
+}

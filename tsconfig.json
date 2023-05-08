@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "nodenext",
+    "module": "nodenext",
+    "sourceMap": false,
+    "target": "es2022",
+    "outDir": ".build",
+    "lib": ["es2022"],
+    "skipLibCheck": true,
+    "rootDir": "./",
+    "typeRoots": ["./node_modules/@types", "./@types"]
+  },
+  "include": ["./src/**/*"],
+  "exclude": ["node_modules"]
+}
